@@ -1,0 +1,29 @@
+{
+  "name": "gulp-config",
+  "version": "1.0.0",
+  "description": "Gulp config",
+  "main": "Gulpfile.js",
+  "scripts": {},
+  "author": "Anonymous",
+  "license": "MIT",
+  "devDependencies": {
+    "browser-sync": "^2.11.0",
+    "gulp": "^3.9.0",
+    "gulp-autoprefixer": "^3.1.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-csslint": "^0.2.0",
+    "gulp-csslint-less-reporter": "^0.1.0",
+    "gulp-cssnano": "^2.0.0",
+    "gulp-imagemin": "^2.4.0",
+    "gulp-jshint": "^2.0.0",
+    "gulp-less": "^3.0.5",
+    "gulp-notify": "^2.2.0",
+    "gulp-order": "^1.1.1",
+    "gulp-plumber": "^1.0.1",
+    "gulp-sourcemaps": "^1.6.0",
+    "gulp-uglify": "^1.5.1",
+    "gulp-watch": "^4.3.5",
+    "imagemin-pngquant": "^4.2.0",
+    "jshint": "^2.9.1-rc2"
+  }
+}
